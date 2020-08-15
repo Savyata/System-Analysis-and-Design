@@ -1,5 +1,6 @@
 # System-Analysis-and-Design
-System Analysis and Design: Academic Projects
+
+# Project Management Report
 
 # Project Management and Scheduling
 The main purpose of the project is to implement a platform  for the Federal Communication Commission that will support the development and implementation of a series of surveys for college students, researching student video viewing preferences. Our team will be implementing three different surveys that evaluate content preferences, time of day preferences and the price they are willing to pay for it. For this project we are using the SDLC development model as a framework to define our tasks. We are dividing the tasks into 5 Phases and each phase has Tasks divided into different Activity when applicable. The project will take approximately 4months for finishing and implementing the project.
